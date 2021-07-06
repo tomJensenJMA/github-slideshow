@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 	
 ---
 	
-Your text
+This is the text changed by me
 	
 Use the left arrow to go back!
